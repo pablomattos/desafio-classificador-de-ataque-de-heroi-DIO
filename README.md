@@ -1,4 +1,4 @@
-#Desafio classificador de  tipo de herói
+#Desafio classificador de ataque de herói
 
 *Este código tem por objetivo classificar o ataque do herói a partir do tipo de herói.
 
